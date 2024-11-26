@@ -1,7 +1,6 @@
 "use client"
 
 import { useState } from 'react'
-import { motion } from 'framer-motion'
 import { RefreshCw } from 'lucide-react'
 import Card from './Card'
 import { Button } from "@/components/ui/button"
